@@ -61,9 +61,11 @@
 	<section id="third">
 		<div class="wrapper">
 			<h1>GALERIJA</h1>
-			<a href="#third" id="myBtn">
-				<img src="img/8.jpg">
-			</a>
+			<div class="tete">
+				<a href="#third" id="myBtn">
+					<img src="img/8.jpg">
+				</a>
+			</div>
 			<div id="myModal" class="modal">
 				<div class="modal-content">
 					<span class="close">&times;</span>
@@ -76,148 +78,219 @@
 					<div class="row">
 						<div class="column 3D animals">
 						    <div class="content">
-						    	<img src="img/3d/3d1.jpg" alt="butterflay">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d1.jpg'>
+									<p>Click to activate</p>
+								</span>
 						    </div>
 						</div>
 						<div class="column 3D">
 						    <div class="content">
-						    	<img src="img/3d/3d2.jpg" alt="butterflay">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d4.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
+						</div>
+						<div class="column 3D">
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d5.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
+						</div>
+						<div class="column 3D">
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d6.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
+						</div>
+						<div class="column 3D">
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d7.jpg'>
+									<p>Click to activate</p>
+								</span>
 						    </div>
 						</div>
 						<div class="column 3D animals">
 						    <div class="content">
-						    	<img src="img/3d/3d3.jpg" alt="butterflay">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d8.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
+						</div>
+						<div class="column 3D animals">
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d9.jpg'>
+									<p>Click to activate</p>
+								</span>
 						    </div>
 						</div>
 						<div class="column 3D">
-							<div class="content">
-								<img src="img/3d/3d4.jpg" alt="butterflay">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d10.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column 3D">
-							<div class="content">
-								<img src="img/3d/3d5.jpg" alt="butterflay">
-							</div>
-						</div>
-						<div class="column 3D">
-							<div class="content">
-								<img src="img/3d/3d6.jpg" alt="butterflay">
-							</div>
-						</div>
-						<div class="column 3D">
-							<div class="content">
-								<img src="img/3d/3d7.jpg" alt="butterflay">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d11.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column 3D animals">
-							<div class="content">
-								<img src="img/3d/3d8.jpg" alt="butterflay">
-							</div>
-						</div>
-						<div class="column 3D animals">
-							<div class="content">
-								<img src="img/3d/3d9.jpg" alt="butterflay">
-							</div>
-						</div>
-						<div class="column 3D">
-							<div class="content">
-								<img src="img/3d/3d10.jpg" alt="butterflay">
-							</div>
-						</div>
-						<div class="column 3D">
-							<div class="content">
-								<img src="img/3d/3d11.jpg" alt="butterflay">
-							</div>
-						</div>
-						<div class="column 3D animals">
-							<div class="content">
-								<img src="img/3d/3d12.jpg" alt="butterflay">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d12.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column 3D mix">
-							<div class="content">
-								<img src="img/3d/3d13.jpg" alt="butterflay">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d13.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
-						<div class="column 3D">
-							<div class="content">
-								<img src="img/3d/3d14.jpg" alt="butterflay">
-							</div>
-						</div>
-						<div class="column 3D">
-							<div class="content">
-								<img src="img/3d/3d15.jpg" alt="butterflay">
-							</div>
-						</div>
-						<div class="column 3D animals">
-							<div class="content">
-								<img src="img/3d/3d16.jpg" alt="butterflay">
-							</div>
-						</div>
-						<div class="column 3D">
-							<div class="content">
-								<img src="img/3d/3d17.jpg" alt="butterflay">
-							</div>
+						<div class="column 3D mix">
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d14.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column 3D animals">
-							<div class="content">
-								<img src="img/3d/3d18.jpg" alt="butterflay">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d15.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
+						</div>
+						<div class="column 3D animals">
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d16.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
+						</div>
+						<div class="column 3D animals">
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d17.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
+						</div>
+						<div class="column 3D animals">
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3d/3d18.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column animals">
-							<div class="content">
-								<img src="img/3.jpg" alt="Mountains">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/3.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column animals">
-							<div class="content">
-								<img src="img/9.jpg" alt="Mountains">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/9.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column animals">
-							<div class="content">
-								<img src="img/11.jpg" alt="Mountains">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/11.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column animals">
-							<div class="content">
-								<img src="img/12.jpg" alt="Mountains">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/12.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column animals">
-							<div class="content">
-								<img src="img/13.jpg" alt="Mountains">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/13.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column animals">
-							<div class="content">
-								<img src="img/14.jpg" alt="Mountains">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/14.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column animals">
-							<div class="content">
-								<img src="img/15.jpg" alt="Mountains">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/15.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column mix">
-							<div class="content">
-								<img src="img/16.jpg" alt="Mountains">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/16.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column mix">
-							<div class="content">
-								<img src="img/17.jpg" alt="Mountains">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/17.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column animals">
-							<div class="content">
-								<img src="img/18.jpg" alt="Mountains">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/18.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 						<div class="column animals">
-							<div class="content">
-								<img src="img/19.jpg" alt="Mountains">
-							</div>
+						    <div class="content">
+						    	<span class='zoom ex1'>
+									<img  src='img/19.jpg'>
+									<p>Click to activate</p>
+								</span>
+						    </div>
 						</div>
 					</div>
 				</div>
@@ -245,20 +318,20 @@
 			</div>
 			<div id="map"></div>
 			<script>
-			// function myMap() {
-			//   var myCenter = new google.maps.LatLng(51.508742,-0.120850);
-			//   var mapCanvas = document.getElementById("map");
-			//   var mapOptions = {center: myCenter, zoom: 5};
-			//   var map = new google.maps.Map(mapCanvas, mapOptions);
-			//   var marker = new google.maps.Marker({position:myCenter});
-			//   marker.setMap(map);
+			function myMap() {
+			  var myCenter = new google.maps.LatLng(51.508742,-0.120850);
+			  var mapCanvas = document.getElementById("map");
+			  var mapOptions = {center: myCenter, zoom: 5};
+			  var map = new google.maps.Map(mapCanvas, mapOptions);
+			  var marker = new google.maps.Marker({position:myCenter});
+			  marker.setMap(map);
 
-			//   // Zoom to 9 when clicking on marker
-			//   google.maps.event.addListener(marker,'click',function() {
-			//     map.setZoom(9);
-			//     map.setCenter(marker.getPosition());
-			//   });
-			// }
+			  // Zoom to 9 when clicking on marker
+			  google.maps.event.addListener(marker,'click',function() {
+			    map.setZoom(9);
+			    map.setCenter(marker.getPosition());
+			  });
+			}
 			</script>
 			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
 		</div>		
@@ -271,6 +344,8 @@
 			</div>
 		</div>
 	</footer>
+
+
 
 	<script src="main.js"></script>
 </body>

@@ -17,5 +17,8 @@
     "gulp-watch": "^4.3.11"
   },
   "author": "Osvaldas",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jquery-zoom": "^1.7.21"
+  }
 }
